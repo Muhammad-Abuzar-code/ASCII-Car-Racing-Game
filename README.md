@@ -29,7 +29,7 @@ A **2-player console-based racing game** developed in C++ with simultaneous play
 * Game loop architecture
 * Collision detection
 * File I/O using `fstream`
-* Windows Console API
+* Windows Console Based Game
 
 ## How It Works
 
