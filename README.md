@@ -33,16 +33,15 @@ A **2-player console-based racing game** developed in C++ with simultaneous play
 
 ## How It Works
 
-The game continuously runs a game loop that:
+The game starts with two players racing on the same track while obstacles continuously appear and move toward them.
 
-1. Processes player input.
-2. Updates player positions.
-3. Generates and updates obstacles.
-4. Checks for collisions.
-5. Updates player states and scores.
-6. Renders the updated game board.
-
-The game continues until both players have crashed.
+1. Both players control their cars simultaneously using their respective keyboard controls.
+2. Obstacles continuously appear on the track, and players must avoid them to keep racing.
+3. When a player collides with an obstacle or the track boundary, that player crashes and can no longer continue.
+4. If one player crashes, the other player continues racing.
+5. The game ends when **both players have crashed**.
+6. At the end of the game, the scores of both players are displayed.
+7. If either player's score is higher than their previous high score, the **new high score is saved** for future games.
 
 ## Platform
 
