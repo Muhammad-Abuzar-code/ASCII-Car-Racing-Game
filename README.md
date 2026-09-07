@@ -16,8 +16,8 @@ A **2-player console-based racing game** developed in C++ with simultaneous play
 
 | Player   | Controls        |
 | -------- | --------------- |
-| Player 1 | `W` `A` `S` `D` |
-| Player 2 | `J` `K` `L`     |
+| Player 1 | `A` `D` |
+| Player 2 | `J` `L`     |
 
 ## Technologies & Concepts
 
