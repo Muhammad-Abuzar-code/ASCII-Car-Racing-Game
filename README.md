@@ -31,7 +31,7 @@ A **2-player console-based racing game** developed in C++ with simultaneous play
 * File I/O using `fstream`
 * Windows Console Based Game
 
-## How It Works
+## Game Mechanics
 
 The game starts with two players racing on the same track while obstacles continuously appear and move toward them.
 
