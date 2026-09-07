@@ -36,17 +36,13 @@ A **2-player console-based racing game** developed in C++ with simultaneous play
 The game continuously runs a game loop that:
 
 1. Processes player input.
-2. Updates vehicle positions.
+2. Updates player positions.
 3. Generates and updates obstacles.
 4. Checks for collisions.
 5. Updates player states and scores.
 6. Renders the updated game board.
 
 The game continues until both players have crashed.
-
-## Collaboration
-
-Developed with **Bilal Ahmad**, who contributed to the obstacle generation, collision detection, and file management systems.
 
 ## Platform
 
